@@ -177,7 +177,7 @@ export const navItems = [
   export const workExperience = [
     {
       id: 1,
-      title: "Vidya CollegCryptography Challenge",
+      title: "Vidya College Cryptography Challenge",
       desc: "Participated in Crytography challenge 2023 conducted at Vidya college of Engineering",
       className: "md:col-span-2",
       thumbnail: "/exp1.svg",
