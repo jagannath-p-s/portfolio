@@ -3,7 +3,7 @@ export const navItems = [
     { name: "Resume", link: "https://drive.google.com/file/d/1udileHqcrbD09gjuFpUZlHgpOajw3UU_/view?usp=sharing" },
     { name: "Projects", link: "#projects" },
     //{ name: "Testimonials", link: "#testimonials" },
-    { name: "Videos", link: "https://www.youtube.com/channel/UCK5CYi7T-FNnyzb8jX_yjoA"},
+    
     { name: "Contact", link: "#contact" },
   ];
   
