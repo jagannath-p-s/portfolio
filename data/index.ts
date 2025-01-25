@@ -3,7 +3,7 @@ export const navItems = [
     { name: "Resume", link: "https://drive.google.com/file/d/1udileHqcrbD09gjuFpUZlHgpOajw3UU_/view?usp=sharing" },
     { name: "Projects", link: "#projects" },
     //{ name: "Testimonials", link: "#testimonials" },
-    { name: "Blogs", link: "https://dev.to/akashjana"},
+    { name: "Videos", link: "https://www.youtube.com/channel/UCK5CYi7T-FNnyzb8jX_yjoA"},
     { name: "Contact", link: "#contact" },
   ];
   
@@ -86,7 +86,7 @@ export const navItems = [
       des: "We made a customized management app for Her Chamber Fitness , Permanagalam , with attendance tracking and reports , membership management and automated notifications , Expense and income management ,  ",
       img: "chamber.png",
       iconLists: ["/science.png",  "/tail.svg", "/supabase.png","/mui.svg"],
-      link: "github.com/AkashJana18/nextjs-project",
+      
     },
     {
       id: 3,
@@ -94,7 +94,7 @@ export const navItems = [
       des: "Compare different cryptocurrencies, view their graphs—prices, total volumes, market cap, etc.",
       img: "/regal.png",
       iconLists: ["/html.svg","/css.svg", "/js.svg"],
-      link: "cryptack.netlify.app/",
+   
     },
   
     {
@@ -103,7 +103,7 @@ export const navItems = [
       des: "It is a digital marketing and event planning web application , used by digital marketing agencies to scedule task to creators and editors , manage billing and event scheduling attendance tracking of staff etc ",
       img: "/digi.png",
       iconLists: ["/science.png",  "/tail.svg", "/supabase.png","/mui.svg"],
-      link: "react-quiz-with-timer.netlify.app/",
+      
     },
   ];
   
@@ -177,7 +177,7 @@ export const navItems = [
     {
       id: 1,
       title: "Vidya CollegCryptography Challenge",
-      desc: "Participated in Crytography challenge 2023 conducted at vidya college of Engineering",
+      desc: "Participated in Crytography challenge 2023 conducted at Vidya college of Engineering",
       className: "md:col-span-2",
       thumbnail: "/exp1.svg",
     },
