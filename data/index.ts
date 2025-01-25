@@ -78,7 +78,7 @@ export const navItems = [
       des: "Whitesoft is an ERP-CRM app build for Haritha Agritech Customized for their requirements",
       img: "/haritha.png",
       iconLists: ["/science.png",  "/tail.svg", "/supabase.png"],
-      // link: "",
+      link: "",
     },
     {
       id: 2,
@@ -86,6 +86,7 @@ export const navItems = [
       des: "We made a customized management app for Her Chamber Fitness , Permanagalam , with attendance tracking and reports , membership management and automated notifications , Expense and income management ,  ",
       img: "chamber.png",
       iconLists: ["/science.png",  "/tail.svg", "/supabase.png","/mui.svg"],
+      link: "",
       
     },
     {
@@ -94,7 +95,7 @@ export const navItems = [
       des: "Compare different cryptocurrencies, view their graphs—prices, total volumes, market cap, etc.",
       img: "/regal.png",
       iconLists: ["/html.svg","/css.svg", "/js.svg"],
-   
+      link: "",
     },
   
     {
@@ -103,7 +104,7 @@ export const navItems = [
       des: "It is a digital marketing and event planning web application , used by digital marketing agencies to scedule task to creators and editors , manage billing and event scheduling attendance tracking of staff etc ",
       img: "/digi.png",
       iconLists: ["/science.png",  "/tail.svg", "/supabase.png","/mui.svg"],
-      
+      link: "",
     },
   ];
   
