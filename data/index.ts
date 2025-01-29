@@ -1,6 +1,6 @@
 export const navItems = [
     { name: "About", link: "#about" },
-    { name: "Resume", link: "https://drive.google.com/file/d/1udileHqcrbD09gjuFpUZlHgpOajw3UU_/view?usp=sharing" },
+    { name: "Resume", link: "https://drive.google.com/file/d/154jAik4Q_HciluYtfJZbBDVVgfrQuIoR/view?usp=drive_link" },
     { name: "Projects", link: "#projects" },
     //{ name: "Testimonials", link: "#testimonials" },
     
@@ -177,28 +177,28 @@ export const navItems = [
   export const workExperience = [
     {
       id: 1,
-      title: "Vidya College Cryptography Challenge",
-      desc: "Participated in Crytography challenge 2023 conducted at Vidya college of Engineering",
+      title: "Linux Clipboard App",
+      desc: "Made a linux App that can be used to copy multiple codes at once and paste according to the sequence",
       className: "md:col-span-2",
       thumbnail: "/exp1.svg",
     },
     {
       id: 2,
-      title: "Open Source",
+      title: "Reacts Library",
       desc: "Developed a React library called react-infinite-scroller which is used to create horizontal logo animations , its still in improvement stage ",
       thumbnail: "/exp2.svg",
     },
     {
       id: 3,
       title: "Freelance Project",
-      desc: "Developed a AR based web application for a client to present his machine gltf files to get funding for his big project , further info cannot be shared as i have signed a NDA",
+      desc: "Developed a AR based web application for a client to present his machines AR gltf files to get funding for his big project , have signed a NDA",
       className: "md:col-span-2",
       thumbnail: "/exp3.svg",
     },
     {
       id: 4,
-      title: "Team Led",
-      desc: "Led the team of developers at whitebranding for multiple projects ",
+      title: "Team Lead",
+      desc: "Led the team of developers at whitebranding for multiple projects for a priod of 6 months",
       className: "md:col-span-2",
       thumbnail: "/exp4.svg",
     },
