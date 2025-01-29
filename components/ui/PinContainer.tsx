@@ -39,7 +39,7 @@ export const PinContainer = ({
       //href={href || "/"}
       onClick={(event) => {
         event.preventDefault();
-        window.open("https://" + href, "_blank");
+        window.open("https://github.com/jagannath-p-s" + href, "_blank");
       }}
     >
       <div
