@@ -20,7 +20,7 @@ export const navItems = [
     },
     {
       id: 2,
-      title: " Flexibility is my promise , I'm the guy who you can communicate with you like a friend",
+      title: " Flexibility is my promise ",
       description: "",
       className: "lg:col-span-2 md:col-span-3 md:row-span-2 min-h-[40vh] select-none",
       imgClassName: "",
