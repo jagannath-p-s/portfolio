@@ -91,8 +91,8 @@ export const navItems = [
     },
     {
       id: 3,
-      title: "Cryptack - Cryptocurrency tracker",
-      des: "Compare different cryptocurrencies, view their graphs—prices, total volumes, market cap, etc.",
+      title: "Regal idustries",
+      des: "Build A static site for a business to enhance his online presence , The site is on top of search results",
       img: "/regal.png",
       iconLists: ["/html.svg","/css.svg", "/js.svg"],
       link: "",
