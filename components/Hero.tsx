@@ -13,14 +13,14 @@ const Hero = () => {
       text: "Build",
     },
     {
-      text: "High-performance",
+      text: "Cool Stuff",
     },
     {
-      text: "Web",
+      text: "That works",
       className: "text-purple dark:text-purple",
     },
     {
-      text: "Applications",
+      text: "like a charm",
       className: "text-purple dark:text-purple",
     },
   ];
