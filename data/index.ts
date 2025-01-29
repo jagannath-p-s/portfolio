@@ -20,7 +20,7 @@ export const navItems = [
     },
     {
       id: 2,
-      title: " Flexibility is a promise from wherever you are you can count on me im just a chill guy ",
+      title: " Flexibility is my promise , I'm the guy who you can communicate with you like a friend",
       description: "",
       className: "lg:col-span-2 md:col-span-3 md:row-span-2 min-h-[40vh] select-none",
       imgClassName: "",
@@ -78,7 +78,7 @@ export const navItems = [
       des: "Whitesoft is an ERP-CRM app build for Haritha Agritech Customized for their requirements",
       img: "/haritha.png",
       iconLists: ["/science.png",  "/tail.svg", "/supabase.png"],
-      link: "",
+      link: "https://github.com/jagannath-p-s",
     },
     {
       id: 2,
@@ -86,7 +86,7 @@ export const navItems = [
       des: "We made a customized management app for Her Chamber Fitness , Permanagalam , with attendance tracking and reports , membership management and automated notifications , Expense and income management ,  ",
       img: "chamber.png",
       iconLists: ["/science.png",  "/tail.svg", "/supabase.png","/mui.svg"],
-      link: "",
+      link: "https://github.com/jagannath-p-s",
       
     },
     {
@@ -95,7 +95,7 @@ export const navItems = [
       des: "Build A static site for a business to enhance his online presence , The site is on top of search results",
       img: "/regal.png",
       iconLists: ["/html.svg","/css.svg", "/js.svg"],
-      link: "",
+      link: "https://github.com/jagannath-p-s",
     },
   
     {
@@ -104,7 +104,7 @@ export const navItems = [
       des: "It is a digital marketing and event planning web application , used by digital marketing agencies to scedule task to creators and editors , manage billing and event scheduling attendance tracking of staff etc ",
       img: "/digi.png",
       iconLists: ["/science.png",  "/tail.svg", "/supabase.png","/mui.svg"],
-      link: "",
+      link: "https://github.com/jagannath-p-s",
     },
   ];
   
@@ -198,7 +198,7 @@ export const navItems = [
     {
       id: 4,
       title: "Team Lead",
-      desc: "Led the team of developers at whitebranding for multiple projects for a priod of 6 months",
+      desc: "Led the team of developers at whitebranding for multiple projects for a period of 6 months",
       className: "md:col-span-2",
       thumbnail: "/exp4.svg",
     },
