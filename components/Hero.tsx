@@ -16,7 +16,7 @@ const Hero = () => {
       text: "Awesome",
     },
     {
-      text: "Web",
+      text: "web",
       className: "text-purple dark:text-purple",
     },
     {
