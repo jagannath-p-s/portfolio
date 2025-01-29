@@ -184,7 +184,7 @@ export const navItems = [
     },
     {
       id: 2,
-      title: "Reacts Library",
+      title: "React Library",
       desc: "Developed a React library called react-infinite-scroller which is used to create horizontal logo animations , its still in improvement stage ",
       thumbnail: "/exp2.svg",
     },
